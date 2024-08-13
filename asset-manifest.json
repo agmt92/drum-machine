@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/agmt92.github.io/drum-machine/static/css/main.63e6a895.css",
+    "main.js": "/agmt92.github.io/drum-machine/static/js/main.678adc8e.js",
+    "index.html": "/agmt92.github.io/drum-machine/index.html",
+    "main.63e6a895.css.map": "/agmt92.github.io/drum-machine/static/css/main.63e6a895.css.map",
+    "main.678adc8e.js.map": "/agmt92.github.io/drum-machine/static/js/main.678adc8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63e6a895.css",
+    "static/js/main.678adc8e.js"
+  ]
+}
